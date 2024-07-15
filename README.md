@@ -37,7 +37,7 @@ Bienvenido a mi perfil de GitHub.
 ## 📫 Cómo contactarme
 
 - **Email:** soniarodrr@gmail.com
-- **LinkedIn:** [Sonia Rodríguez](www.linkedin.com/in/sonia-rodriguez-alcantarilla)
+- **LinkedIn:** [Sonia Rodríguez](https://www.linkedin.com/in/sonia-rodriguez-alcantarilla)
 
 
 ¡Espero que encuentres interesante mi perfil y mis proyectos! No dudes en contactarme para cualquier consulta o colaboración.
