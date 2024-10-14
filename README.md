@@ -32,7 +32,7 @@ Bienvenido a mi perfil de GitHub.
 - Sistema de control de versiones GIT
 
 ### 📊 Estadística descriptiva - Data Storytelling:
-- Diseño de Dashboards en Looker
+- Diseño de Dashboards en Looker & Power BI
 
 ## 📫 Cómo contactarme
 
