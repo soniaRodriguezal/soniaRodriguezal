@@ -25,7 +25,8 @@ Bienvenido a mi perfil de GitHub.
 - Manejo de ficheros (json, csv, xlsx)
 - Automatización tareas de gestión de datos
 - Web scraping (Selenium, BeautifulSoup)
-- REST API's 
+- REST API's
+- PySpark
 - Limpieza y tratamiento de datos con Pandas y NumPy
 - Visualización de datos (Matplotlib, Seaborn, Plotly)
 - Scikit-Learn (modelos lineales)
